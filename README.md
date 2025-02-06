@@ -1,7 +1,7 @@
 
 ## Nombre del Proyecto
 
-FastAPI Fintech
+Iupi Fintech
 
 ## Instalación
 
